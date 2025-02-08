@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**Gijs6/Gijs6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gijs, also known as _gijsz_ and _Gijs6_ online.
 
-Here are some ideas to get you started:
+I'm currently working on [*Meliag*](https://github.com/Gijs6/Meliag), a website designed to display train data in a nice way, as well as my [personal website](https://www.gijs6.nl/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've only been active here since around December 2024 (_before that, I just didn't use git, I have no idea how..._), but I've been coding for about two years now.
+
+Sometimes, I also work on projects related to the Somtoday API (which is a bit of huge a mess), like [SomPlus](https://github.com/Gijs6/SomPlus).
+
+Feel free to reach out to me via email at [gijs6@dupunkto.org](mailto:gijs6@dupunkto.org)!
+
+Have fun exploring! 🚀  
