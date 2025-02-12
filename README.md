@@ -2,9 +2,9 @@
 
 I'm Gijs, also known as _gijsz_ and _Gijs6_ online.
 
-I'm currently working on [*Meliag*](https://github.com/Gijs6/Meliag), a website designed to display train data in a nice way, as well as my [personal website](https://www.gijs6.nl/).
+I'm currently mostly working on [*Meliag*](https://github.com/Gijs6/Meliag), a website designed to display train data in a nice way, as well as my [personal website](https://www.gijs6.nl/).
 
-I've only been active here since around December 2024 (_before that, I just didn't use git, I have no idea how..._), but I've been coding for about two years now.
+I've only been active here since around December 2024 (_before that, I just didn't really use git, I have no idea how..._), but I've been coding for about two years now.
 
 Sometimes, I also work on projects related to the Somtoday API (which is a bit of huge a mess), like [SomPlus](https://github.com/Gijs6/SomPlus).
 
